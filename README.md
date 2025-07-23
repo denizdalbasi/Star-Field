@@ -10,7 +10,7 @@ This project simulates a 3D starfield effect using Processing, creating the illu
 
     When a star moves past the viewer (z < 1), it is reset to a far distance.
 
-    The star's size and position on the 2D screen are calculated based on its 3D coordinates,         simulating perspective.
+    The star's size and position on the 2D screen are calculated based on its 3D coordinates,  simulating perspective.
 
     A trailing line shows the star’s motion path, enhancing the depth effect.
 
